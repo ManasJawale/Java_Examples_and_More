@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\shiv\\Downloads\\JTattoo-1.6.13.jar"
+        ]
+    }
+}

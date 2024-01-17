@@ -1,0 +1,52 @@
+#SmoothButton {
+    /* color */
+    background-color: aqua;
+    /* border */
+    border: 5px solid black;
+    border-radius: 10px;
+    /* location */
+    position: absolute;
+    top: 50vh;
+    left: 50vw;
+    /* font */
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-decoration: underline;
+    /* shadows */
+    box-shadow: 10px 10px 5px #00eeff;
+    /* sizing */
+    height: 50px;
+    width: 100px;
+    /* cursor */
+    cursor: pointer;
+}
+
+body {
+    background: #1a1a1a;
+}
+
+h4 {
+    background: white;
+    border: 12px solid rgb(127, 127, 127);
+}
+
+#Toggle {
+    width: 200px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: darkslategray;
+}
+#Toggle #circle {
+    display: flex;
+    background: rgb(71, 71, 71);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: bold;
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    border: 2px solid darkgray;
+}
